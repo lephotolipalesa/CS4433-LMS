@@ -1,4 +1,4 @@
-# Moderated LMS 
+# Moderated LMS  v1
 
 C++17 + SQLite + OpenSSL offline console LMS. See `docs/BUILD_AND_INSTALL.md` first.
 
