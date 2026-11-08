@@ -1,4 +1,4 @@
-# Moderated LMS — CS4433 Weeks 4–6 Project
+# Moderated LMS 
 
 C++17 + SQLite + OpenSSL offline console LMS. See `docs/BUILD_AND_INSTALL.md` first.
 
